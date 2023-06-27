@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+.item{
+    display: block;
+    width: 200px;
+    height: 200px; 
+    text-align: center;
+   
+    color: black;
+    text-transform: uppercase;
+    line-height: 200px;
+    
+    
+    
+}
+.item1{
+    background-color: rgb(136, 92, 12);
+    float: left;
+}
+.item2{
+    background-color: rgb(255, 0, 200);
+    float: left;
+}
+.paragrafo{background-color: aqua;
+
+}
+.item3{
+    background-color: rgb(12, 136, 68);
+    float: left;
+}
+.item4{
+    background-color: rgb(255, 115, 0);
+    float: right;
+}
+.paragrafo2{
+    background-color: burlywood;
+   
+}
+.paragrafo3{
+    clear: both;
+    background-color: green;
+}

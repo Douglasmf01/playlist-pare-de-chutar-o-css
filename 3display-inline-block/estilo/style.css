@@ -1,0 +1,33 @@
+@charset "UTF-8";
+.exemplo{
+    text-align: justify;
+}
+.item{
+    display: inline-block;
+    width: 200px;
+    height: 150px; 
+    color: white;
+    text-align: center;
+    line-height: 150px;
+
+    
+    
+}
+.item1{
+    background-color: hwb(0 0% 100%);
+   
+}
+.item2{
+    background-color: orange;
+  
+   
+}
+.item3{
+    background-color: rgb(124, 0, 128);
+    
+}
+.resolverjustify{
+    display: inline-block;
+    width: 100%;
+    background-color: aqua;
+}

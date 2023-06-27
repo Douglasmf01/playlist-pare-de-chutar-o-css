@@ -1,0 +1,40 @@
+.item{
+    height: 30vh;
+    width: 30vw;
+    line-height: 30vh;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    position: absolute;
+}
+
+.item1{
+    right: 0;
+    bottom: 0;
+    transform: translate();
+    background-color: red;
+    line-height: 100px;
+    overflow: hidden;
+}
+.item2{
+    top: 50%;
+    left: 50%;
+    background-color: blue;
+    transform: translateY(-50%)translate(-50%);
+}
+.item3{
+    background-color: green;
+}
+.conteudo{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    
+    width: 100px;
+    height: 100px;
+    background-color: rgb(177, 206, 17);
+    transform: translate(-50%)translateY(-50%);
+    
+}
