@@ -14,7 +14,7 @@
     right: 0;
     bottom: 0;
     transform: translate();
-    background-color: red;
+    background-color: rgb(90, 160, 207);
     line-height: 100px;
     overflow: hidden;
 }
